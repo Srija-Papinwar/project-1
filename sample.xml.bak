@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE sample SYSTEM "C:\wamp\www\522 PHP\xml\sample.dtd">
+<university>
+     <college name="Bhoj Reddy Engineering College for Women" id="05">
+	     <student rollno="1">
+		            <fname>Ramesh</fname>
+                	<lname>rao</lname>
+		            <address>H.no:1108</address>
+		            <address>H.no:179,Road no:5,Kothapet,Hyderabad</address>
+		            <phoneNo>9494553673</phoneNo>
+		            <DOB>2001-03-01</DOB>
+		            <branch>&CSE;</branch>
+	     </student>
+	     <student rollno="3">
+		            <fname>Miheeka</fname>
+		            <address>H.no:66/66,Road no:14,Srinagar,Malakpet,Srisailam</address>
+		            <address>H.no:233-17,Road no:1,Dilsukhnagar,Hyderabad</address>
+		            <DOB>1999-09-04</DOB>
+		            <branch>&CSE;</branch>
+	     </student>
+     </college>
+</university>
